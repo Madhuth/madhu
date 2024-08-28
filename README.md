@@ -69,8 +69,8 @@
 <div align="center">
   <br>
   <p>
-    If you have any queries , <br><b>MAIL ME</b>&nbsp;
+    If you have any queries , <br> <MAIL ME></b>&nbsp;
   <a href="mailto:madhuthakur2177@gmail.com">
-      <img width="20px" src="/assests/gmail.svg" />
+      <img width="20px" src="/assests/gmail.svg"/>
   </a></p>
 </div>
