@@ -76,6 +76,7 @@
   <a href="madhuthakur2177@gmail.com">
     
 <h4 align="center">Visitor's count :eyes:</h4>
+
 <!-- VISITOR COUNTER ON MY PROFILE-->
-<p align="center"><img src="https://profile-counter.glitch.me/{MyNewCounter}/count.svg" alt="MyNewCounter :: Visitor's Count" /></p>
-![Visitor Count](https://profile-counter.glitch.me/{MyNewCounter}/count.svg)
+<img src="https://profile-counter.glitch.me/MyNewCounter1/count.svg" alt="Visitor's Count" />
+
