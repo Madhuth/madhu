@@ -3,13 +3,8 @@
 <br><br>
 <p align="center" style="margin-top:10px">
 <b>
-Welcome to my Github profile!</b> <br>
-Scroll down below to find what I do, what I am doing, and what I am upto.<br>   
-<i>Want to collaborate, reach me below.</i>
-</p>
-
 <div align="center">
-  <a href="https://https://www.linkedin.com/in/madhu-thakur-b1aa56291/">
+  <a href="https://www.linkedin.com/in/madhu-thakur-b1aa56291/">
     <img width="30px" src="/assests/linkedin-line.svg"  />
   </a>
   &nbsp;
