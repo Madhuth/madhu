@@ -78,4 +78,4 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 <!-- VISITOR COUNTER ON MY PROFILE-->
 <p align="center"><img src="https://profile-counter.glitch.me/{MyNewCounter}/count.svg" alt="MyNewCounter :: Visitor's Count" /></p>
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/{MyNewCounter}/count.svg)
