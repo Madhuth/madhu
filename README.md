@@ -1,10 +1,16 @@
 ![Hi! I am MADHU THAKUR](https://github.com/Madhuth/madhu/blob/main/RK_MT-PIC.jpg)
 <br>
 <h4 align="center">Visitor's count :eyes:</h4>
-<!-- VISITOR COUNTER ON MY PROFILE-->
-<img src="https://profile-counter.glitch.me/MyNewCounter1/count.svg" alt="Visitor's Count" />
 
-<h1 align="center"><a href="#"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+<!-- VISITOR COUNTER ON MY PROFILE-->
+<div align="center">
+    <img src="https://profile-counter.glitch.me/MyNewCounter1/count.svg" alt="Visitor's Count" />
+</div>
+
+<h1 align="center">
+    <a href="#"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
+</h1>
+
   <br>
 <p align="center" style="margin-top:10px">
 <b>
