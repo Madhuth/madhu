@@ -30,7 +30,7 @@ Scroll down below to find what I do, what I am doing, and what I am upto.<br>
   
   
 <h3 align="center">A small introduction ✍</h3>
-<p align="center">Hey! I am currently Internee as <b>FULL STACK DEVELOPER</b>. </p>
+<p align="center">Hey! I am currently Internee as <b>FULL STACK DEVELOPER</b>. Aspiring web developer and full-stack engineer, currently interning at INFOWIZ, where I specialize in web development technologies and advanced JavaScript frameworks. I am enhancing my skills in full-stack development through hands-on projects and advanced courses. Recently offered an internship at Cognify Technology, reflecting my commitment to mastering web technologies and delivering impactful solutions. </p>
 <br>
   <summary><b>Tech stack I work with 👇</b></summary>
 
