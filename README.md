@@ -1,10 +1,9 @@
 ![Hi! I am MADHU THAKUR](https://github.com/Madhuth/madhu/blob/main/RK_MT-PIC.jpg)
-
-<br><br>
+<br>
 <p align="center" style="margin-top:10px">
 <b>
 <div align="center">
-  <a href="https://www.linkedin.com/in/madhu-thakur-b1aa56291/">
+  <a href="https://www.linkedin.com/in/madhu-thakur-b1aa56291">
     <img width="30px" src="/assests/linkedin-line.svg"  />
   </a>
   &nbsp;
@@ -21,9 +20,6 @@
   </a> 
 </div>
 <br>
-<br>
-  
-  
 <h3 align="center">A small introduction ✍</h3>
 <p align="center">Hey! I am currently Internee as <b>FULL STACK DEVELOPER</b>. Aspiring web developer and full-stack engineer, currently interning at INFOWIZ, where I specialize in web development technologies and advanced JavaScript frameworks. I am enhancing my skills in full-stack development through hands-on projects and advanced courses. Recently offered an internship at Cognify Technology, reflecting my commitment to mastering web technologies and delivering impactful solutions. </p>
 <br>
