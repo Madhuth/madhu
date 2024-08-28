@@ -27,8 +27,8 @@
   <a href="#">
     <img width="28px" src="/assests/instagram-line.svg" />
   </a>  
-    [![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:madhuthakur2177@gmail.com)
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/madhu-thakur-b1aa56291)
+[![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png)](https://www.linkedin.com/in/madhu-thakur-b1aa56291)
+
 
 </div>
 <h3 align="center">A small introduction ✍</h3>
@@ -46,7 +46,6 @@
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&style=plastic) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&style=plastic) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=plastic) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&style=plastic) 
 
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=GaganpreetKaurKalsi.GaganpreetKaurKalsi) -->
 
 
 <h4>ML/DL stack</h4>   
