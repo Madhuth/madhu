@@ -1,5 +1,9 @@
 ![Hi! I am MADHU THAKUR](https://github.com/Madhuth/madhu/blob/main/RK_MT-PIC.jpg)
 <br>
+<h4 align="center">Visitor's count :eyes:</h4>
+<!-- VISITOR COUNTER ON MY PROFILE-->
+<img src="https://profile-counter.glitch.me/MyNewCounter1/count.svg" alt="Visitor's Count" />
+
 <h1 align="center"><a href="#"><img src="https://github.com/milaan9/milaan9/blob/main/Handshake.gif" width="50px"></a>
   <br>
 <p align="center" style="margin-top:10px">
@@ -72,11 +76,6 @@
   <br>
   <p>
     If you have any queries , <br> <MAIL ME></b>
-   **Gmail: Click On** ****
-  <a href="madhuthakur2177@gmail.com">
-    
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<!-- VISITOR COUNTER ON MY PROFILE-->
-<img src="https://profile-counter.glitch.me/MyNewCounter1/count.svg" alt="Visitor's Count" />
+   **Gmail: Click On** **madhuthakur2177@gmail.com**
+  
 
