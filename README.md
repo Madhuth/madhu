@@ -79,4 +79,5 @@
   <br>
   <p>
     If you have any queries , <br> <MAIL ME></b>
-  [![Gmail](https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png)](mailto:madhuthakur2177@gmail.com)
+  
+[![Gmail](https://img.icons8.com/color/48/000000/gmail.png)](mailto:madhuthakur2177@gmail.com)
